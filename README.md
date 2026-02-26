@@ -87,8 +87,9 @@
 <div align="center">
 
 ### 🎨 Portfolio Website
-[![Portfolio GIF](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)](https://ismailibrahimabdirahim.github.io/ismail-portfolio)  
-**Tech Stack:** JavaScript, CSS, HTML  
+[![Portfolio GIF](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)](https://ismailibrahiim.vercel.app)  
+**Tech Stack:** React, JavaScript, CSS, HTML  
+**Live Demo:** [Visit Portfolio](https://ismailibrahiim.vercel.app)  
 **Status:** ✅ Live
 
 ### 📝 Tech Blog (Coming Soon)
@@ -121,7 +122,7 @@
 
 <div align="center">
 
-<a href="https://ismailibrahimabdirahim.github.io/ismail-portfolio" target="_blank">
+<a href="https://ismailibrahiim.vercel.app" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-FF6EC7?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
@@ -142,7 +143,7 @@
 <br>
 
 <div align="center">
-**Made with ❤️ & JavaScript**
+**Made with ❤️ & JavaScript**  
 <br><br>
 ### **✨ Thanks for visiting! Let's build something amazing together.** ✨
 </div>
